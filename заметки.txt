@@ -1,0 +1,9 @@
+"devDependencies": {
+
+npm i -D babel-loader babel-preset-env babel-register browser-sync del gulp gulp-clean-css gulp-if gulp-imagemin gulp-rename gulp-replace gulp-sass gulp-sourcemaps gulp-uglify gulp-wp-pot gulp-zip vinyl-named webpack-stream yargs 
+
+
+
+  Dependencies": {
+
+npm i @fortawesome/fontawesome-free jquery normalize.css slick-carousel   
